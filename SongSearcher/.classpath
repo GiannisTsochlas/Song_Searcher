@@ -6,10 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/Cyber_Ghost_Pc/Downloads/lucene-8.0.0/core/lucene-core-8.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Cyber_Ghost_Pc/Downloads/lucene-8.0.0/highlighter/lucene-highlighter-8.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Cyber_Ghost_Pc/Downloads/lucene-8.0.0/memory/lucene-memory-8.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Cyber_Ghost_Pc/Downloads/lucene-8.0.0/queryparser/lucene-queryparser-8.0.0.jar"/>
 	<classpathentry kind="lib" path="lib/miglayout-swing.jar" sourcepath="lib/miglayout-swing-sources.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="jar:platform:/resource/Lucene-Search-Engine-on-Covid19-articles/lib/miglayout-swing-javadoc.jar!/"/>
@@ -20,5 +16,9 @@
 			<attribute name="javadoc_location" value="jar:platform:/resource/Lucene-Search-Engine-on-Covid19-articles/lib/miglayout-core-javadoc.jar!/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Cyber_Ghost_Pc/Desktop/Song_Searcher/SongSearcher/lib/lucene/core/lucene-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cyber_Ghost_Pc/Desktop/Song_Searcher/SongSearcher/lib/lucene/highlighter/lucene-highlighter.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cyber_Ghost_Pc/Desktop/Song_Searcher/SongSearcher/lib/lucene/memory/lucene-memory.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Cyber_Ghost_Pc/Desktop/Song_Searcher/SongSearcher/lib/lucene/queryparser/lucene-queryparser.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
